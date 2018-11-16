@@ -1,60 +1,9 @@
-<!DOCTYPE html>
-<html>
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="style.css">
 
- <!--la police et le background-->
-<style>
-body {
-font-family: 'ciclefina', italic;
-font-style: oblique;
-font-weight: 400;
-background-color:#2d3436;
  
-}
- 
-<button> {color: #f7f1e3;}
-h1  {color: #f7f1e3;} 
-
-.topnav {
-  overflow: hidden;
-  background-color: #333;
-  position: relative;
-}
-
-.topnav #myLinks {
-  display: none;
-}
-
-.topnav a {
-  color: white;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-  display: block;
-}
-
-.topnav a.icon {
-  background: black;
-  display: block;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.active {
-  background-color: #787878;
-  color: white;
-}
-
-   
-</style>
 </head>
 <body>
 
@@ -93,8 +42,7 @@ function myFunction() {
 </html>
 
 <body>
-<font color="white">
-<div align="center left"> 
+
  </style></head><body><header><h1>This is <em>still</em> a motherfucking website.</h1>
 
 <aside>And it's more fucking perfect than the last guy's.
@@ -120,6 +68,7 @@ href="http://motherfuckingwebsite.com/">this site's inspiration</a> did. What I'
 <h3>Click the button to make psychadelic sh%t.</h3>
 
 <button onclick="myFunction()">Try it to go blind</button>
+
 <h2>Epilogue</h2><p>Inspired by the geniuses behind <a
 href="http://motherfuckingwebsite.com/">motherfuckingwebsite.com</a> and <a
 href="http://txti.es">txti</a>.</p><p>This page&mdash;that isn't a total fucking eyesore&mdash;was created by <a
