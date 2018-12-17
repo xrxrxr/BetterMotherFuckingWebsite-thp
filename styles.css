@@ -6,6 +6,7 @@ body {
 }
 
 h1 {
+  font-Family: monospace, bold;
   color: #f5f6fa;
   text-align: center;
   padding-left: 30 auto;
@@ -13,6 +14,7 @@ h1 {
 }
 
 h2 {
+  font-Family: monospace, bold;
   color: #f5f6fa;
   text-align: left;
   padding-left: 30 auto;
@@ -20,6 +22,7 @@ h2 {
 }
 
 h3 {
+  font-Family: monospace, bold;
   color: #f5f6fa;
   text-align: left;
   padding-left: 30 auto;
@@ -27,13 +30,14 @@ h3 {
 }
 
 p {
-  font-Family: "ubuntu", Times, bold;
+  font-Family: monospace, bold;
   margin: 3 auto;
   text-align: left;
   padding-left: 30 auto;
 }
 
 h4 {
+  font-Family: monospace, bold;
   color: #f5f6fa;
   text-align: center;
   padding-left: 30 auto;
@@ -44,4 +48,5 @@ button {
   color: purple;
   margin:auto;
   display:block;
+ 	background: #DF013A
 }

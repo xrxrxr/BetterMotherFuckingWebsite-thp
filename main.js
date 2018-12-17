@@ -6,7 +6,7 @@
    document.querySelectorAll('h1, h2, h3,h4').forEach(tag =>
    tag.style.cssText = `
      color: green;
-     fontFamily: Comic Sans, cursive;
+     fontFamily: Comic Sans MS, cursive;
    `
  )
  document.querySelectorAll('p').forEach(tag =>
